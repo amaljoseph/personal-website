@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: അമൽ ജോസഫ്
 
 # Name pronunciation (optional)
 name_pronunciation: Amal Joseph
